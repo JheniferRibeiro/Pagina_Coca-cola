@@ -3,7 +3,8 @@ Página index da marca "Coca-cola" desenvolvida em HTML e CSS.
 
 ##
 
-![image](https://github.com/JheniferRibeiro/P-gina_Coca-cola/assets/111551364/28c203d2-0ec7-479c-bcc5-b3485aeccc56)
+![image](https://github.com/JheniferRibeiro/Pagina_Coca-cola/assets/111551364/3cbdbe80-e020-4e96-ae82-c4fef74c9b12)
+
 
 ##
 
